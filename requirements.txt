@@ -1,0 +1,5 @@
+pytest
+pytest_cov
+black
+pylint
+ipython
